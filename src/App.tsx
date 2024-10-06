@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is our CISC367 Project
+          This is our CISC367 Project. Adding this to see if it deploys.
         </p>
         <a
           className="App-link"
