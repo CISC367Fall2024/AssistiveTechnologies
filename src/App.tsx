@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { TaskInput } from './TaskBreakdown/TaskBreakdown';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         >
           Learn React
         </a>
+        <TaskInput></TaskInput>
       </header>
     </div>
   );
