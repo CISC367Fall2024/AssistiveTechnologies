@@ -10,6 +10,7 @@ function App() {
         <p>
           This is our CISC367 Project. Adding this to see if it deploys.
         </p>
+        <p>Adding this from Antoine's Branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
