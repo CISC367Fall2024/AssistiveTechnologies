@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { TaskInput } from './TaskBreakdown/TaskBreakdown';
 
 function App() {
   return (
@@ -9,9 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is our CISC367 Project. Adding this to see if it deploys.
+          This is our CISC367 Project. Adding this to see if it deploys. Adding more here.
         </p>
-        <p>Adding this from Antoine's Branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -20,7 +18,6 @@ function App() {
         >
           Learn React
         </a>
-        <TaskInput></TaskInput>
       </header>
     </div>
   );
