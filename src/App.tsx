@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is our CISC367 Project. Adding this to see if it deploys. Adding more here.
+          Adding this after github history changes.
         </p>
         <a
           className="App-link"
